@@ -1,0 +1,28 @@
+.popup__close {
+    position: absolute;
+    top: calc(50% - 213.28px);
+    left: calc(50% + 215px);
+    width: 48.28px;
+    height: 48.28px;
+    background-color: transparent;
+    border: 0;
+    background-image: url("../../../images/Close Icon.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    outline: none;
+}
+
+.popup__close:hover {
+    cursor: pointer;
+    opacity: 0.6;
+    transform: rotate(45deg);
+}
+
+@media (max-width: 934px) {
+    .popup__close {
+        top: calc(50% - 213.28px);
+        left: calc(50% + 100px);
+        width: 36.76px;
+        height: 36.76px;
+    }
+}
