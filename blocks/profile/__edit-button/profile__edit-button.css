@@ -8,8 +8,6 @@
     background-repeat: no-repeat;
     background-position: center;
     background-color: transparent;
-    position: relative;
-    top: -7px;
 }
 
 .profile__edit-button:hover {
@@ -19,6 +17,7 @@
 
 @media (max-width: 934px) {
     .profile__edit-button {
+        position: relative;
         left: 115px;
         top: -90px;
         width: 18px;
