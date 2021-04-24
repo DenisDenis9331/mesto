@@ -4,7 +4,7 @@
     font-size: 24px;
     line-height: 29px;
     color: #000000;
-    margin: 0;
+    margin: 0 0 54px;
     align-self: flex-start;
 }
 
@@ -14,5 +14,6 @@
         line-height: 22px;
         min-width: 238px;
         align-self: center;
+        margin: 0 0 75px;
     }
 }

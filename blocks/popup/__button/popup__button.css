@@ -9,12 +9,16 @@
     line-height: 22px;
     text-align: center;
     min-height: 50px;
+    margin-top: 18px;
 }
 
 @media (max-width: 934px) {
     .popup__button {
         min-width: 238px;
         height: 46px;
+        margin-top: 15px;
+        font-size: 14px;
+        line-height: 17px;
     }
 }
 
