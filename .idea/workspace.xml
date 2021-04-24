@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f54f0d9b-4cbd-49aa-b2dd-244955a89f21" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/popup/__container/popup__container.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/popup/__container/popup__container.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/popup/_opened/popup_opened.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/popup/_opened/popup_opened.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/profile/__row/profile__row.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/profile/__row/profile__row.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="43" />
+              <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
               <folding>
                 <element signature="n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#form#0;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -31,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popup__container.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="60" lean-forward="true" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="popup__container.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blocks/popup/__container/popup__container.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -44,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/blocks/popup/popup.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -119,7 +126,6 @@
         <option value="$PROJECT_DIR$/.git/MERGE_MSG" />
         <option value="$PROJECT_DIR$/vendor/fonts/fonts.css" />
         <option value="$PROJECT_DIR$/blocks/profile/__info/profile__info.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/index.css" />
         <option value="$PROJECT_DIR$/blocks/profile/__row/profile__row.css" />
         <option value="$PROJECT_DIR$/blocks/profile/__edit-button/profile__edit-button.css" />
@@ -127,6 +133,7 @@
         <option value="$PROJECT_DIR$/blocks/popup/_opened/popup_opened.css" />
         <option value="$PROJECT_DIR$/blocks/popup/__container/popup__container.css" />
         <option value="$PROJECT_DIR$/blocks/popup/popup.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -150,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +237,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,11 +291,12 @@
       <workItem from="1619167661976" duration="127000" />
       <workItem from="1619170660674" duration="1761000" />
       <workItem from="1619256839451" duration="542000" />
+      <workItem from="1619257585879" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60144000" />
+    <option name="totallyTimeSpent" value="60213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1243" height="666" extended-state="6" />
@@ -639,13 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/profile/__row/profile__row.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -667,17 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="18" column="43" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="43" />
-          <folding>
-            <element signature="n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#form#0;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/popup/_opened/popup_opened.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -688,14 +678,32 @@
     <entry file="file://$PROJECT_DIR$/blocks/popup/popup.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blocks/popup/__container/popup__container.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#form#0;n#div#2;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="60" lean-forward="true" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
         </state>
       </provider>
     </entry>
