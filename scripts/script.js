@@ -17,7 +17,8 @@ let subtitle = document.querySelector('.profile__subtitle');
         // Вставьте новые значения с помощью textContent
         title.textContent = name;
         subtitle.textContent = job;
-        popup.classList.remove('popup_opened');
+        // popup.classList.remove('popup_opened'); убрал лишнюю строку, заменил на запуск функции
+        formCloseHandler ();
     }
     function formCloseHandler () {
         popup.classList.remove('popup_opened');

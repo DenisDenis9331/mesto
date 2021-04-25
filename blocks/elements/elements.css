@@ -20,7 +20,7 @@
         grid-template-columns: repeat(1, 282px);
         grid-template-rows: repeat(6, auto);
         max-width: 282px;
-        padding: 36px 0 79px;
+        padding: 36px 0 48px;
         gap: 20px;
     }
 }
