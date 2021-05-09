@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f54f0d9b-4cbd-49aa-b2dd-244955a89f21" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/card/__basket/card__basket.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/card/__like/_painted/card__like_painted.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/popup/__close/_type-third/popup__close_type-third.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/popup/__image/popup__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/popup/_type_new-card/popup_type_new-card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/card/__image/card__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__image/card__image.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/popup/popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/popup/popup.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,14 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="95" column="42" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="42" />
+            <state relative-caret-position="531">
+              <caret line="106" column="43" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
               <folding>
                 <element signature="n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <marker date="1620517172568" expanded="true" signature="1048:3511" ph="..." />
+                <marker date="1620519055112" expanded="true" signature="1048:3511" ph="..." />
               </folding>
             </state>
           </provider>
@@ -78,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popup__close_type-third.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="popup__close_type-third.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blocks/popup/__close/_type-third/popup__close_type-third.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
@@ -149,11 +139,11 @@
         <option value="$PROJECT_DIR$/blocks/popup/_type_new-card/popup_type_new-card.css" />
         <option value="$PROJECT_DIR$/blocks/popup/__image/popup__image.css" />
         <option value="$PROJECT_DIR$/blocks/card/__basket/card__basket.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/index.css" />
         <option value="$PROJECT_DIR$/blocks/popup/popup.css" />
         <option value="$PROJECT_DIR$/scripts/script.js" />
         <option value="$PROJECT_DIR$/blocks/popup/__close/_type-third/popup__close_type-third.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -166,7 +156,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="193" />
     <option name="y" value="7" />
     <option name="width" value="1450" />
@@ -304,12 +294,12 @@
       <workItem from="1620157642006" duration="4692000" />
       <workItem from="1620233239423" duration="11961000" />
       <workItem from="1620332833270" duration="5476000" />
-      <workItem from="1620429052254" duration="20851000" />
+      <workItem from="1620429052254" duration="21096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138721000" />
+    <option name="totallyTimeSpent" value="138966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -680,17 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="95" column="42" selection-start-line="95" selection-start-column="26" selection-end-line="95" selection-end-column="42" />
-          <folding>
-            <element signature="n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <marker date="1620517172568" expanded="true" signature="1048:3511" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -726,6 +705,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="106" column="43" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
+          <folding>
+            <element signature="n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <marker date="1620519055112" expanded="true" signature="1048:3511" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
