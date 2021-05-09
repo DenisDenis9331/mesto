@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f54f0d9b-4cbd-49aa-b2dd-244955a89f21" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__basket/card__basket.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__basket/card__basket.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/__image/card__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/__image/card__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/card/card.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/card/card.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="92" column="66" selection-start-line="92" selection-start-column="55" selection-end-line="92" selection-end-column="66" />
+            <state relative-caret-position="672">
+              <caret line="91" column="40" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
               <folding>
                 <element signature="n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <marker date="1620519388849" expanded="true" signature="1048:3511" ph="..." />
@@ -29,50 +32,59 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="card__basket.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blocks/card/__basket/card__basket.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/card/card.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card__image.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/card/__image/card__image.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card__info.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/card/__info/card__info.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile__add-button.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks/profile/__add-button/profile__add-button.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="121" selection-start-line="121" selection-end-line="125" selection-end-column="1" />
+            <state relative-caret-position="104">
+              <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
               <folding>
                 <marker date="1620518647680" expanded="true" signature="2082:2733" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="popup__close.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/popup/__close/popup__close.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="popup__container.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/popup/__container/popup__container.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="popup.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/popup/popup.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="20" selection-start-line="2" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="popup__close_type-third.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks/popup/__close/_type-third/popup__close_type-third.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -93,6 +105,7 @@
       <find>`</find>
       <find>popup__container</find>
       <find>close</find>
+      <find>popup__save</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -106,7 +119,6 @@
       <list>
         <option value="$PROJECT_DIR$/blocks/profile/__avatar/profile__avatar.css" />
         <option value="$PROJECT_DIR$/blocks/profile/__button/profile__button.css" />
-        <option value="$PROJECT_DIR$/blocks/card/card.css" />
         <option value="$PROJECT_DIR$/blocks/page/page.css" />
         <option value="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" />
         <option value="$PROJECT_DIR$/blocks/footer/footer.css" />
@@ -127,7 +139,6 @@
         <option value="$PROJECT_DIR$/blocks/profile/profile.css" />
         <option value="$PROJECT_DIR$/blocks/elements/elements.css" />
         <option value="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" />
-        <option value="$PROJECT_DIR$/blocks/profile/__add-button/profile__add-button.css" />
         <option value="$PROJECT_DIR$/blocks/header/header.css" />
         <option value="$PROJECT_DIR$/blocks/card/__caption/card__caption.css" />
         <option value="$PROJECT_DIR$/blocks/card/__info/card__info.css" />
@@ -135,15 +146,17 @@
         <option value="$PROJECT_DIR$/blocks/profile/__title/profile__title.css" />
         <option value="$PROJECT_DIR$/blocks/profile/__info/profile__info.css" />
         <option value="$PROJECT_DIR$/blocks/card/__like/_painted/card__like_painted.css" />
-        <option value="$PROJECT_DIR$/blocks/card/__image/card__image.css" />
         <option value="$PROJECT_DIR$/blocks/popup/_type_new-card/popup_type_new-card.css" />
         <option value="$PROJECT_DIR$/blocks/popup/__image/popup__image.css" />
-        <option value="$PROJECT_DIR$/blocks/card/__basket/card__basket.css" />
         <option value="$PROJECT_DIR$/pages/index.css" />
         <option value="$PROJECT_DIR$/blocks/popup/popup.css" />
         <option value="$PROJECT_DIR$/scripts/script.js" />
         <option value="$PROJECT_DIR$/blocks/popup/__close/_type-third/popup__close_type-third.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/blocks/profile/__add-button/profile__add-button.css" />
+        <option value="$PROJECT_DIR$/blocks/card/__image/card__image.css" />
+        <option value="$PROJECT_DIR$/blocks/card/card.css" />
+        <option value="$PROJECT_DIR$/blocks/card/__basket/card__basket.css" />
       </list>
     </option>
   </component>
@@ -157,8 +170,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="193" />
-    <option name="y" value="7" />
+    <option name="x" value="192" />
+    <option name="y" value="6" />
     <option name="width" value="1450" />
     <option name="height" value="1060" />
   </component>
@@ -189,14 +202,22 @@
               <item name="mesto" type="b2602c69:ProjectViewProjectNode" />
               <item name="mesto" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="popup" type="462c0819:PsiDirectoryNode" />
+              <item name="card" type="462c0819:PsiDirectoryNode" />
+              <item name="__basket" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mesto" type="b2602c69:ProjectViewProjectNode" />
               <item name="mesto" type="462c0819:PsiDirectoryNode" />
               <item name="blocks" type="462c0819:PsiDirectoryNode" />
-              <item name="popup" type="462c0819:PsiDirectoryNode" />
-              <item name="__container" type="462c0819:PsiDirectoryNode" />
+              <item name="card" type="462c0819:PsiDirectoryNode" />
+              <item name="__image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mesto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mesto" type="462c0819:PsiDirectoryNode" />
+              <item name="blocks" type="462c0819:PsiDirectoryNode" />
+              <item name="card" type="462c0819:PsiDirectoryNode" />
+              <item name="__info" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mesto" type="b2602c69:ProjectViewProjectNode" />
@@ -279,12 +300,13 @@
       <workItem from="1620157642006" duration="4692000" />
       <workItem from="1620233239423" duration="11961000" />
       <workItem from="1620332833270" duration="5476000" />
-      <workItem from="1620429052254" duration="21427000" />
+      <workItem from="1620429052254" duration="21547000" />
+      <workItem from="1620570106558" duration="1683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139297000" />
+    <option name="totallyTimeSpent" value="141100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -423,13 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/card/card.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/page/page.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -528,13 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/profile/__add-button/profile__add-button.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/profile/profile.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -563,13 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/card/__info/card__info.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/profile/__title/profile__title.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -595,13 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/card/__image/card__image.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -640,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/card/__basket/card__basket.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blocks/card/__like/card__like.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16">
@@ -657,7 +644,7 @@
     <entry file="file://$PROJECT_DIR$/blocks/popup/__container/popup__container.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -668,24 +655,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/popup/__close/popup__close.css">
+    <entry file="file://$PROJECT_DIR$/blocks/popup/__close/_type-third/popup__close_type-third.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        <state relative-caret-position="64">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blocks/popup/__close/_type-third/popup__close_type-third.css">
+    <entry file="file://$PROJECT_DIR$/blocks/popup/__close/popup__close.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="96">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="121" selection-start-line="121" selection-end-line="125" selection-end-column="1" />
+        <state relative-caret-position="104">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
           <folding>
             <marker date="1620518647680" expanded="true" signature="2082:2733" ph="..." />
           </folding>
@@ -694,12 +681,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="92" column="66" selection-start-line="92" selection-start-column="55" selection-end-line="92" selection-end-column="66" />
+        <state relative-caret-position="672">
+          <caret line="91" column="40" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
           <folding>
             <element signature="n#section#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <marker date="1620519388849" expanded="true" signature="1048:3511" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/profile/__add-button/profile__add-button.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/card/card.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/card/__image/card__image.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/card/__info/card__info.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks/card/__basket/card__basket.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
