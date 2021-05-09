@@ -1,0 +1,5 @@
+.popup__close_type-third {
+    /*position: absolute;*/
+    top: calc(50% - 213.28px);
+    left: calc(50% + 400px);
+}

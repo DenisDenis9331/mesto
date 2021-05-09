@@ -1,0 +1,8 @@
+.card__basket {
+    background-image: url("../../../images/basket.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    min-width: 18px;
+    min-height: 19.3px;
+}
